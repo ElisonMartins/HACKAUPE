@@ -20,3 +20,5 @@ ScrollReveal().reveal('#head1', { delay: 200 });
 ScrollReveal().reveal('#head2', { delay: 200 });
 ScrollReveal().reveal('#head3', { delay: 200 });
 ScrollReveal().reveal('#head4', { delay: 200 });
+
+VanillaTilt.init(document.querySelectorAll(".imagens img"));
