@@ -150,3 +150,28 @@ img {
     background-color:  #038373;
     color:#fff;
 }
+
+@media only screen and (max-width: 600px) {
+    .title {
+        font-size: 30px;
+    }
+
+    #head {
+        width: 100vw;
+        height: 100vh;
+        text-align: center;
+    
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #head .imagens {
+        display: none;
+    }
+
+    #head, #head2, #head3, #head4 {
+        width: 100vw;
+    }
+}
