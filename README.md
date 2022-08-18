@@ -1,6 +1,6 @@
 <h1> HackaUPE </h1>
 <p> Hackaton da Universidade de Pernambuco - Campus Garanhuns </p>
-Deploy: <a href="hackaupe.vercel.app" alt="link da Hackaupe"> hackaupe.vercel.app </a>
+Deploy: https://hackaupe.vercel.app
 
 <h2> Linguagens </h2>
 <p> <strong>Html</strong> </p>
