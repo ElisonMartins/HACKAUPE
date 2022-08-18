@@ -83,6 +83,7 @@ header {
     font-weight:300;
     letter-spacing: 2px;
     font-size: 80px;
+    margin: 10px;
 }
 
 button {
@@ -128,6 +129,10 @@ img {
 	align-items: center;
 }
 
+#head2 h1, #head3 h1, #head4 h1 {
+    margin: 20px;
+}
+
 #head2 p {
     width: 70%;
 }
@@ -171,7 +176,7 @@ img {
         display: none;
     }
 
-    #head, #head2, #head3, #head4 {
+    #head, #head2, #head3, #head4, header {
         width: 100vw;
     }
 }
